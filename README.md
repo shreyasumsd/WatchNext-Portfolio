@@ -31,21 +31,7 @@ content information, search by title and maintain a personal watchlist.
 
 ## Project Screenshots
 
-### Home Page
-
-![WatchNext Home Page](home.png)
-
-### Search Page
-
-![WatchNext Search Page](search.png)
-
-### Movie Details
-
-![WatchNext Movie Details](movie-details.png)
-
-### Watchlist
-
-![WatchNext Watchlist](watchlist.png)
+Screenshots available in Project Screenshot Folder
 
 ## Demo
 
